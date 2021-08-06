@@ -1,0 +1,22 @@
+ "products": [
+        {
+            "id": 1,
+            "name": "giường ngủ hoa hồng",
+            "categoryId": 12,
+            "unitId": 2,
+            "price": 66000000,
+            "salePrice": 0,
+            "material": "gỗ hương Lào",
+            "size": "1m8 x 2m"
+        },
+        {
+            "id": 2,
+            "name": "giường ngủ đồng tiền",
+            "categoryId": 12,
+            "unitId": 2,
+            "price": 40000000,
+            "salePrice": 0,
+            "material": "gỗ hương Lào",
+            "size": "2m x 2m2"
+        }
+    ],
