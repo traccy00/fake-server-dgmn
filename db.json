@@ -1,4 +1,5 @@
- "products": [
+{
+    "products": [
         {
             "id": 1,
             "name": "giường ngủ hoa hồng",
@@ -20,3 +21,7 @@
             "size": "2m x 2m2"
         }
     ],
+    "status": "Success",
+    "message": "MSG_SUCCESS",
+    "ex": null
+}
